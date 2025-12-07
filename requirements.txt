@@ -1,0 +1,24 @@
+# Core Data Science
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistical Analysis
+scipy
+statsmodels
+
+# Model Explainability
+shap
+
+# Jupyter Notebooks
+jupyter
+
+# Data Version Control
+dvc
+
+# File & YAML utilities
+pyyaml
