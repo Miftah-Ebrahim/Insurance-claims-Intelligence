@@ -31,10 +31,13 @@ venv/
 # Data
 data/raw/*
 !data/raw/.gitkeep
+!data/raw/*.dvc
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/*.dvc
 data/interim/*
 !data/interim/.gitkeep
+!data/interim/*.dvc
 models/*
 !models/.gitkeep
 
