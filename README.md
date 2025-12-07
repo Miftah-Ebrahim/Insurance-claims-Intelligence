@@ -146,7 +146,7 @@ This project is proudly licensed under the **MIT License**. Feel free to fork, l
 
 <div align="center">
 
-**Built with 💙, ☕, and 🐍 by the AlphaCare Data Science Team**
+**Built By 🐍 Mifta Y**
 *Turning Data into Decisions.*
 
 </div>
