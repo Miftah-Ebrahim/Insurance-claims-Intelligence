@@ -2,7 +2,7 @@
 # 🛡️ Insurance Claims Intelligence - Final Project Report
 **Date:** December 8, 2025
 **Prepared For:** AlphaCare Insurance Solutions Executive Team
-**Author:** Data Science Team
+**Author:** Mifta Y
 
 ---
 
