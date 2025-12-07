@@ -17,23 +17,6 @@ def main():
     """
     logging.info("Starting End-to-End Pipeline...")
 
-    # 1. Load Data
-    data_path = "data/raw/MachineLearningRating.txt"
-    if not os.path.exists(data_path):
-        logging.error(f"Data file not found at {data_path}")
-        return
-
-    logging.info("Loading data...")
-    df_raw = load_data(data_path)
-
-    # 2. Preprocess
-    logging.info("Building features...")
-    builder = DataBuilder(df_raw)
-    builder.preprocess()
-
-    # 3. Train Models
-    trainer = ModelTrainer()
-
     # Severity Model (Regression)
     logging.info("--- Pipeline: Claim Severity Model ---")
     X_sev, y_sev = builder.get_severity_data()
