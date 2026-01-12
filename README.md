@@ -77,7 +77,7 @@ Insurance-claims-Intelligence/
 ├── 📂 reports/              # Final Deliverables
 │   └── 📂 final_report/     # Executive Summary
 │
-├── 📂 dashboard/            # Generated Visuals
+├── 📂 dashboard/       
 │   └── 📂 figures/          # PNG Exports
 │
 ├── main_pipeline.py         # ⚡ ORCHESTRATOR
